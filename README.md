@@ -1,0 +1,1 @@
+just for checking one command = git rm --cached README.md
